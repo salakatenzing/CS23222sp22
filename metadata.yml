@@ -1,0 +1,14 @@
+---
+:id: 67356097
+:submitters:
+- :name: Kevin Boukpessi
+  :email: kb20957n@pace.edu
+- :name: Tenzing Salaka
+  :email: ts59793n@pace.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-01 04:07:34.876288000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-28 20:07:34.876288000 Z
+:status: processed
+:score: 50.0
